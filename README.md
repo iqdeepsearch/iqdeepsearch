@@ -13,7 +13,7 @@ Somos uma equipe dedicada a integrar ciência de ponta, engenharia de processos 
 
 ## Sobre a Carbonmaster
 
-A **Carbonmaster** é uma empresa de consultoria e P&D focada na transição energética, descarbonização de cadeias produtivas e otimização de processos industriais. Atuamos na interseção entre a academia e a indústria para entregar inovação aplicada.
+A **Carbonmaster** é uma plataforma de divulgação científica P&D focada na transição energética, descarbonização de cadeias produtivas e otimização de processos industriais.
 
 Saiba mais em: [https://carbonmaster.com.br/](https://carbonmaster.com.br/)
 
